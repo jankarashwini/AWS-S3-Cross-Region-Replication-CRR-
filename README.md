@@ -4,7 +4,13 @@
 
 This project demonstrates how to configure Amazon S3 Cross-Region Replication (CRR) to automatically replicate objects from a source S3 bucket in one AWS Region to a destination bucket in another AWS Region.
 
-The project focuses on S3 bucket configuration, versioning, replication rules, IAM permissions, and verifying object replication across AWS Regions.
+The project focuses on S3 bucket configuration, versioning, replication rules, IAM permissions, and verifying object replication across AWS Regions.<img width="940" height="657" alt="image" src="https://github.com/user-attachments/assets/a75da62c-23c7-49ab-9c12-7339262213a8" />
+
+
+
+
+
+
 
 ## 🎯 Project Objectives
 
